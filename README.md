@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" />
+<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
