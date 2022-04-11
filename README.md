@@ -21,7 +21,7 @@ I'm Anand and I am a Passionate Web developer from Kerala. I've been into web de
 
 #### Bizness
 
-- 📎 : [My Resume/CV]()
+- 📎 : [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/main/resumes/anandcv.pdf)
 - 📧 : anandca.an7@gmail.com
 
 #### Profile Visits
