@@ -8,7 +8,6 @@ I'm Anand and I am a Passionate Web developer from Kerala. I've been into web de
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently waiting for a job res 💼
 - 📚 I’m currently learning MERN Stack.
 - 📫 How to reach me: anandca.an7@gmail.com.
 - ⚡ Fun fact: I play games and build custom pc's.
