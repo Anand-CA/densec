@@ -1,6 +1,6 @@
 ## Hi I'm Anand <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Anand and I am a Passionate Web developer from Kerala. I've been into web development for 2 years now and i want to go deeper and deeper to explore more concepts. I built everything which excites me 🙂 and spend most of my time coding...
+I'm Anand and I am a Passionate Web developer living in Kerala. I've been into web development for 3 years now and i want to go deeper and deeper to explore more concepts. I learn everything which excites me 🙂 and try to build something from it. 
 
 📫 Reach me out!
 
@@ -8,9 +8,11 @@ I'm Anand and I am a Passionate Web developer from Kerala. I've been into web de
 
 <!-- TODO: Add last video link -->
 
-- 📚 I’m currently learning MERN Stack.
+- 📚 I’m working towards becoming a full stack developer.
+- 🖥️ See my portfolio at [Anand](https://anandca.tech/)
+- 🚀 I'm currently working for [Gyansys](https://gyansys.com/)
 - 📫 How to reach me: anandca.an7@gmail.com.
-- ⚡ Fun fact: I play games and build custom pc's.
+- 🧠 I'm learning Data Structure and Algorithms
 
 #### Top Technologies
 
