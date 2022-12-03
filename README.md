@@ -1,6 +1,6 @@
 ## Hi I'm Anand <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Anand and I am a Passionate Web developer living in Kerala. I've been into web development for 3 years now and i want to go deeper and deeper to explore more concepts. I learn everything which excites me 🙂 and try to build something from it. 
+I'm Anand, a Passionate Web developer based in Kerala. I've been into web development for 3 years now and i try to learn everything which excites me and build something from it.
 
 📫 Reach me out!
 
